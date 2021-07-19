@@ -298,7 +298,7 @@ funds_investment_compute('中证50', '007994', 5, 180, 200, 100)
 
 亚洲精选收益趋势
 
-![image-20210719155644507](./funds_investment/image-20210719155644507.png)
+![image-20210719155644507](../funds_investment/image-20210719155644507.png)
 
 国泰国证房地产行业收益趋势
 
