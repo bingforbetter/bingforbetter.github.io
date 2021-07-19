@@ -316,6 +316,6 @@ funds_investment_compute('中证50', '007994', 5, 180, 200, 100)
 
 3. 懂得止盈也很重要，尤其是对于波动较大的板块，比如芯片，来看一下其收益趋势，堪比过山车，最近才回暖
 
-   ![image-20210719160507357](https://bingforbetter.github.io/funds_investment/image-20210719160507357.png)
+![image-20210719160507357](https://bingforbetter.github.io/funds_investment/image-20210719160507357.png)
 
 
