@@ -51,19 +51,19 @@
 
 #### 2.3.1. 获取基金的历史数据
 
-1. 找到天天基金网看到有净值的部分，打开浏览器检查，查其获取数据的方式
+1.找到天天基金网看到有净值的部分，打开浏览器检查，查其获取数据的方式
 
 ![image-20210719150529567](https://bingforbetter.github.io/funds_investment/image-20210719150529567.png)
 
-2. 找到其中具有历史净值的返回 HTTP 请求
+2.找到其中具有历史净值的返回 HTTP 请求
 
 ![image-20210719150756351](https://bingforbetter.github.io/funds_investment/image-20210719150756351.png)
 
-3. 详细查看其中请求的 URL 和请求参数以及 Referer ，方便后续模拟请求
+3.详细查看其中请求的 URL 和请求参数以及 Referer ，方便后续模拟请求
 
 ![image-20210719150912647](https://bingforbetter.github.io/funds_investment/image-20210719150912647.png)
 
-4. 分析 api 返回的数据结构方便后续取需要的字段
+4.分析 api 返回的数据结构方便后续取需要的字段
 
 ```json
 {
