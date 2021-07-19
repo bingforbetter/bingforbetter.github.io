@@ -199,6 +199,8 @@ def post_money_single(post_money, sum_share, sum_money, day_num, funds_daylists)
 #### 2.3.3 将开始每次定投的收益绘制成收益曲线更直观
 
 ```python
+import  matplotlib.pyplot as plt
+import numpy as np
 # 开始计算收益
 def funds_investment_compute(funds_name, funds_code, step, days, post_money, post_down_money):
     print("%s 基金收益表现如下：" % funds_name)
